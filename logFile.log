@@ -1,0 +1,460 @@
+error executing query "select * from role where role_id = %s", error:   Could not process parameters
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613477511
+get role from role table
+error executing query "select * from role where role_id = %s", error:   Could not process parameters
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613477535
+get role from role table
+error executing query "select * from role where role_id = %s", error:   Could not process parameters
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /authenticate by :127.0.0.11613477549
+authenticate one employee
+Successful!
+getting data of all employee
+accessing /edit_employees by :127.0.0.11613477551
+get role from role table
+error executing query "select * from role where role_id = %s", error:   Could not process parameters
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613477659
+get role from role table
+error executing query "select * from role where role_id = %s", error:   Could not process parameters
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613477782
+get role from role table
+error executing query "SELECT * FROM role WHERE  role_id = %s", error:   Could not process parameters
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613477815
+get role from role table
+error executing query "SELECT * FROM role WHERE  role_id = %s", error:   Could not process parameters
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478003
+get role from role table
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478046
+get role from role table
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478073
+get role from role table
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478106
+get role from role table
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478139
+get role from role table
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478162
+get role from role table
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478182
+get role from role table
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478214
+get role from role table
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478296
+get role from role table
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478412
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478446
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478479
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478507
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478543
+get role from role table
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613478592
+get role from role table
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /authenticate by :127.0.0.11613478659
+authenticate one employee
+Successful!
+getting data of all employee
+accessing /edit_employees by :127.0.0.11613478662
+get role from role table
+accessing /authenticate by :127.0.0.11613478775
+authenticate one employee
+Invalid ACCESS!!!!
+accessing /authenticate by :127.0.0.11613478779
+authenticate one employee
+Successful!
+getting data of all employee
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /edit_employees by :127.0.0.11613483516
+get role from role table
+accessing /edit_employees by :127.0.0.11613483543
+get role from role table
+accessing /edit_employees by :127.0.0.11613483554
+get role from role table
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+Creating table role: 
+Creating table room: 
+Creating table auth: 
+accessing /authenticate by :127.0.0.11613484372
+authenticate one employee
+Successful!
+getting data of all employee
+accessing /edit_employees by :127.0.0.11613484374
+get role from role table
+accessing /edit_employees by :127.0.0.11613484408
+get role from role table
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+error execting query "CREATE TABLE IF NOT EXISTS `employees` (  `emp_id` int(11) NOT NULL AUTO_INCREMENT,  `emp_name` varchar(40) NOT NULL,  `team` varchar(40) NOT NULL,  `position` varchar(40) NOT NULL,  `role` int(11) NOT NULL,  `phone_number` varchar(20) NOT NULL,  `email` varchar(100) NOT NULL UNIQUE,  PRIMARY KEY (`email`),  FOREIGN KEY (`role`) REFERENCES `role` (`role_id`)) ENGINE=InnoDB", error:   1075 (42000): Incorrect table definition; there can be only one auto column and it must be defined as a key
+Creating table role: 
+Creating table room: 
+error execting query "CREATE TABLE IF NOT EXISTS `room` (  `room_id` int(11) NOT NULL,  `room_name` varchar(20) NOT NULL,  `booking_email` varchar(100) NOT NULL,  `sitting` int(10) NOT NULL,  `current_status` tinyint(1) NOT NULL,  PRIMARY KEY (`room_id`),  FOREIGN KEY (`booking_email`) REFERENCES `employees` (`email`)) ENGINE=InnoDB", error:   1215 (HY000): Cannot add foreign key constraint
+Creating table auth: 
+connecting to MySQL database...
+connection established
+5.7.33-0ubuntu0.16.04.1
+Creating table employees: 
+error execting query "CREATE TABLE IF NOT EXISTS `employees` (  `emp_id` int(11) NOT NULL AUTO_INCREMENT,  `emp_name` varchar(40) NOT NULL,  `team` varchar(40) NOT NULL,  `position` varchar(40) NOT NULL,  `role` int(11) NOT NULL,  `phone_number` varchar(20) NOT NULL,  `email` varchar(100) NOT NULL UNIQUE,  PRIMARY KEY (`email`),  FOREIGN KEY (`role`) REFERENCES `role` (`role_id`)) ENGINE=InnoDB", error:   1075 (42000): Incorrect table definition; there can be only one auto column and it must be defined as a key
+Creating table role: 
+Creating table room: 
+error execting query "CREATE TABLE IF NOT EXISTS `room` (  `room_id` int(11) NOT NULL,  `room_name` varchar(20) NOT NULL,  `booking_email` varchar(100) NOT NULL,  `sitting` int(10) NOT NULL,  `current_status` tinyint(1) NOT NULL,  PRIMARY KEY (`room_id`),  FOREIGN KEY (`booking_email`) REFERENCES `employees` (`email`)) ENGINE=InnoDB", error:   1215 (HY000): Cannot add foreign key constraint
+Creating table auth: 
